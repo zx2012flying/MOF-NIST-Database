@@ -7,4 +7,5 @@ This is a collection of NIST Adsorption data (up to 12.2020). The original sourc
 * `adsorbate_properties.xlsx`: 21 properties of the 50 adsorbates
 * `Isotherms_pairs.xlsx`: introduction of adsorbate-adsorbent pairs
 * `isotherm_properties.xlsx`: introduction of the isotherm data
+* `isother_data.xlsx`: all the pressure-loading data for different adsorbents
 
